@@ -1,0 +1,14 @@
+{
+  "name": "jd-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for JD",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "JD",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
